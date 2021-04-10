@@ -1,4 +1,4 @@
-	Esse projeto é uma implementação do Context API do React, antes de irmos para a instalação do projeto precisamos entender o que é Context API e qual problema ele resolve.
+Esse projeto é uma implementação do Context API do React, antes de irmos para a instalação do projeto precisamos entender o que é Context API e qual problema ele resolve.
 
 **Explicação**
 
