@@ -14,11 +14,11 @@
 
 Primeiramente devemos clonar o repositório.
 
-![](/media/ismael/HD/GitHub/Projects/Implementing React Context Api/assets/print-GitClone.png)
+![](https://github.com/Ismael-Oliv/Implementing-React-Context-Api/blob/main/assets/print-GitClone.png)
 
 Agora vamos executar os seguintes comandos.
 
-![](/media/ismael/HD/GitHub/Projects/Implementing React Context Api/assets/Print - Terminal .png)
+![](https://github.com/Ismael-Oliv/Implementing-React-Context-Api/blob/main/assets/Print%20-%20Terminal%20.png)
 
 
 
